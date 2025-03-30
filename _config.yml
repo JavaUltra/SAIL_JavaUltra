@@ -1,0 +1,9 @@
+# Site settings
+title: Great New Blog Title
+Author:
+ Name: FirstName LastName
+ Email: you-email@gmail.com
+Description:
+
+#Build settings
+Remote_theme: jekyll/minima
